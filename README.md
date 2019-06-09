@@ -57,35 +57,56 @@ fountain_merge 함수 :
 - jaeseong 함수 : 조원 박재성이 건설한 건물들을 설치합니다.
 
 clock_tower(); 시계탑을 설치합니다.
+
 nice_apart(); 하양색과 빨강색이 섞인 모양의 아파트를 설치합니다.
+
 spiral_merge(); 나선형 모양의 빌라 단지를 설치합니다. 다이아몬드 블럭으로 만들었습니다.
+
 spiralgold_merge(); 나선형 모양의 빌라 단지를 설치합니다. 황금 블럭으로 만들었습니다.
+
 square_apart(); 사각형 모양의 아파트를 설치합니다.
+
 
 - jihak 함수 : 조원 이지학이 건설한 건물들을 설치합니다.
 
 eiffeltower(); 에펠탑을 설치합니다.
+
 gasstation(x,y,z)); 주유소를 설치합니다.
+
 parthenon(); 파르테논 신전을 설치합니다.
+
 limeorange_apart_merge(); 라임과 오렌지 색의 아파트 단지를 설치합니다.
+
 stair_house_merge(); 계단이 있는 주택 단지를 설치합니다.
+
 
 - nahyun 함수 : 조원 이나현이 건설한 건물들을 설치합니다.
 
 house_merge(); 문어발 아파트 단지를 설치합니다.
+
 modernhouse_merge(); 현대식 주택 단지를 설치합니다.
+
 apartment(); 유리가 많은게 특징인 아파트를 설치합니다.
+
 twinbuilding(); 쌍둥이 빌딩을 설치합니다.
+
 cu(x,y,z)); 편의점 CU를 설치합니다.
+
 
 - yangho 함수 : 조원 오양호가 건설한 건물들을 설치합니다.
 
 church(); 성전을 설치합니다.
+
 company(); 회사 빌딩을 설치합니다.
+
 hospital(); 병원을 설치합니다.
+
 hotel(); 호텔을 설치합니다.
+
 lotte(); 롯데타워를 설치합니다.
+
 round_apart(); 둥근 아파트를 설치합니다.
+
 
 
 도시 소개 유튜브 영상 링크 : 
