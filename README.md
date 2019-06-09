@@ -88,3 +88,5 @@ lotte(); 롯데타워를 설치합니다.
 round_apart(); 둥근 아파트를 설치합니다.
 
 
+도시 소개 유튜브 영상 링크 : 
+https://youtu.be/WTFj-ZM0OAg
